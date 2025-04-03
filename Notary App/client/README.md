@@ -57,7 +57,7 @@ Node.js : JavaScript runtime for running the backend server.
 
      Users can contact the notary for queries.
 
-    Form captures essential details like name, email, and message.
+     Form captures essential details like name, email, and message.
 
 
 
